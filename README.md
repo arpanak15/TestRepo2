@@ -1,6 +1,3 @@
-# simple-java-selenium-automation
-simple code for automatic test
-
 package test;
 
 import org.junit.After;
